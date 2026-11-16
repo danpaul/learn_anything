@@ -59,3 +59,7 @@ Progress is saved automatically to `progress/<lesson-name>.md`: the skill map, o
 | `save state`          | Write the progress file now                     |
 | `resume` / `continue` | Load saved progress for a topic                 |
 | `reset progress`      | Delete a topic's progress and start again       |
+
+## License
+
+[MIT](LICENSE)
